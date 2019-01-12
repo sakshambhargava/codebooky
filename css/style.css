@@ -1,0 +1,42 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+.title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+h1{
+    font-size: 2rem;
+    line-height:1.5;
+    font-family: 'Coiny', cursive !important;
+}
+.img-title{
+    width: 60%;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    font-size: 1.5rem !important;
+    font-family: 'Comfortaa', cursive !important;
+}
+.container-fluid{
+    padding: 3% 12% !important;
+}
+.navbar{
+    padding:0 0 4rem !important;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.top-h3{
+    margin: 5% 2%;
+}
+.btn-started{
+    margin: 0 2rem;
+    margin-bottom: 2rem;
+}

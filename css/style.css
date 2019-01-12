@@ -11,6 +11,9 @@ h1{
     line-height:1.5;
     font-family: 'Coiny', cursive !important;
 }
+p{
+    color: #8f8f8f;
+}
 .img-title{
     width: 60%;
 }
@@ -39,4 +42,24 @@ h1{
 .btn-started{
     margin: 0 2rem;
     margin-bottom: 2rem;
+}
+
+/* ----------- Middle container --------*/
+
+.middle-cont{
+    padding:0 15%;
+}
+.feat{
+    text-align: center;
+    padding: 5%;
+}
+.middle-cont h3{
+    font-weight: bold;
+}
+.middle-cont i{
+    margin: 5% 0;
+    color: #ef8172;
+}
+.middle-cont i:hover{
+    color: #ff4c68;
 }

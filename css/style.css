@@ -1,9 +1,9 @@
 
 body {
-    padding: 0;
-    margin: 0;
-    background: #FFF;
-    font-family: 'Poppins', sans-serif;
+    padding: 10;
+    margin: 10;
+    background: #BBBFFF;
+    font-family: sans-serif;
 }
 
 body button,
